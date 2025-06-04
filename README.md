@@ -1,82 +1,69 @@
-📦 Supply Chain Data Analysis Project
-This project focuses on analyzing supply chain operations to identify bottlenecks, optimize inventory levels, forecast demand, and minimize operational costs. The final outcome is an interactive dashboard to support decision-making for business operations.
+🚚 Supply Chain Data Analysis Project
+This project is a data-driven Supply Chain Dashboard built using Python, SQL, and Power BI to analyze and optimize supply chain operations. It uncovers key metrics related to warehouse management, delivery delays, demand forecasting, and cost control—empowering businesses to make smarter logistics decisions.
 
-📁 Project Overview
-Project Title: Supply Chain Analytics Dashboard
+📊 Project Overview
+Tools Used: Python, MySQL, Power BI, Excel
 
-Tools Used: Python (Pandas, Numpy, Matplotlib, Seaborn), MySQL, Power BI, Excel
+Objective: To create a powerful dashboard for monitoring and improving supply chain efficiency across warehouses, suppliers, and logistics metrics.
 
-Duration: 4 Weeks
+📌 Key Features
+🏢 Warehouse Performance – Visualize stock levels, demand forecasts, stockout risk, and processing time by location.
 
-Role: Business Operations Analyst (Intern)
+🚛 Delivery Delay Analysis – Identify lead time and shipping delays contributing to late orders.
 
-Organization: ApanaTime Technology Pvt. Ltd.
+📦 Inventory Insights – Track current stock, backorders, and damaged goods.
 
-Dataset: supply_chain_extended_data.csv
+💰 Cost Optimization – Compare operational and transportation costs to maximize margins.
 
-🧾 Objective
-To perform data-driven analysis of supply chain processes with the aim to:
+📈 Supplier Risk Scoring – Analyze supplier performance based on return rate and customer ratings.
 
-Improve demand forecasting accuracy
+📌 Visuals Used
+Clustered Bar Chart
 
-Minimize delivery delays and backorders
+Line Chart
 
-Optimize inventory and warehouse operations
+Card KPIs
 
-Reduce operational and transportation costs
+Donut Chart
 
-Maximize profit margins and customer satisfaction
+Slicers
 
-🗂️ Dataset Description
-The dataset contains warehouse, inventory, supplier, sales, and logistics information. Key columns include:
+Heatmap
 
-Warehouse_ID, Location, Current_Stock, Demand_Forecast, Lead_Time_Days
+Matrix Table
 
-Stockout_Risk, Order_Processing_Time, Monthly_Sales, Supplier_ID
+🚀 How to Run
+Open the Supply_Chain_Dashboard.pbix file in Power BI Desktop.
 
-Return_Rate, Operational_Cost, Transportation_Cost, Damaged_Goods
+Ensure the data file (supply_chain_extended_data.csv) is located in the same directory.
 
-Customer_Rating, Warehouse_Capacity, Employee_Count
+Click Refresh to update visuals.
 
-🔍 Key Steps Performed
-1. Data Cleaning & Preprocessing (Python)
-Handled missing values
+Use slicers and filters to interact with different supply chain views.
 
-Normalized inconsistent units and formats
+📌 Outcomes
+Reduced delivery delay insights by identifying high-risk zones.
 
-2. Exploratory Data Analysis (EDA)
-Correlation heatmap to understand feature impact
+Provided a cost comparison between suppliers and warehouses.
 
-Analysis of delay factors and backorder trends
+Enabled proactive inventory planning using demand vs. stock analysis.
 
-Demand vs Stock comparison by location
+Improved supplier evaluation through data-driven scoring.
 
-3. SQL-Based Analysis
-Querying warehouse performance
+🧠 Skills Demonstrated
+Data Cleaning & Transformation in Python
 
-Identifying high-risk suppliers (high return rate, low rating)
+Writing Advanced SQL Queries
 
-Grouping data by region/product category for trend analysis
+Interactive Dashboard Design in Power BI
 
-4. Power BI Dashboard
-Created interactive visuals:
+Business Operations & Logistics Understanding
 
-Stock vs Demand by Warehouse
+Data Visualization & Storytelling
 
-Delay Contributors (Processing, Shipping, Lead Time)
-
-Cost Breakdown (Operational vs Transportation)
-
-Forecast Accuracy vs Actual Sales
-
-Slicers for filtering by:
-
-Region, Product Category, Warehouse ID
-
-📈 Insights & Results
-Recommended reallocation of stock from low-demand to high-risk zones
-
-Reduced delivery delays by 20% in simulations through supplier optimization
-
-Visualized cost inefficiencies and improvement opportunities
+📬 Contact
+Ashish Chandrakant Khatke
+📧 aashukhatke007@gmail.com
+📍 India
+🔗 LinkedIn
 
