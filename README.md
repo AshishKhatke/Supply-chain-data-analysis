@@ -61,9 +61,11 @@ Business Operations & Logistics Understanding
 
 Data Visualization & Storytelling
 
-📬 Contact
-Ashish Chandrakant Khatke
+## 📬 Contact
+
+**Ashish Chandrakant Khatke**  
 📧 aashukhatke007@gmail.com
-📍 India
-🔗 LinkedIn
+📍 India  
+🔗 [LinkedIn](www.linkedin.com/in/ashishkhatke)
+
 
